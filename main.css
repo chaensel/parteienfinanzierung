@@ -1,0 +1,18 @@
+#dataTable {
+	border-collapse: collapse;
+	border-spacing: 0px;
+	width: 100%;
+}
+
+#dataTable th, td {
+	padding: 8px;
+}
+
+#dataTable th {
+	background-color: #4CAF50;
+	color: white;
+}
+
+#dataTable tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
