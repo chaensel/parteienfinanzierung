@@ -40,5 +40,75 @@
 		"spender": "Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V. Uerdinger Straße 58-62 40474 Düsseldorf",
 		"eingang": "03.07.2017",
 		"anzeige": "04.07.2017"
+	},
+	{
+		"partei": "CDU",
+		"spende": 110000.00,
+		"spender": "Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V. Uerdinger Straße 58-62 40474 Düsseldorf",
+		"eingang": "30.06.2017",
+		"anzeige": "05.07.2017"
+	},
+	{
+		"partei": "CDU",
+		"spende": 50001.00,
+		"spender": "Frau Susanne Klatten Seedammweg 55 61352 Bad Homburg",
+		"eingang": "26.06.2017",
+		"anzeige": "29.06.2017"
+	},
+	{
+		"partei": "CDU",
+		"spende": 50001.00,
+		"spender": "Herr Stefan Quandt Seedammweg 55 61352 Bad Homburg",
+		"eingang": "26.06.2017",
+		"anzeige": "29.06.2017"
+	},
+	{
+		"partei": "FDP",
+		"spende": 50001.00,
+		"spender": "Frau Susanne Klatten Seedammweg 55 61352 Bad Homburg",
+		"eingang": "23.06.2017",
+		"anzeige": "26.06.2017"
+	},
+	{
+		"partei": "FDP",
+		"spende": 50001.00,
+		"spender": "Herr Stefan Quandt Seedammweg 55 61352 Bad Homburg",
+		"eingang": "23.06.2017",
+		"anzeige": "26.06.2017"
+	},
+	{
+		"partei": "CDU",
+		"spende": 150000.00,
+		"spender": "Fa. R+W Industriebeteiligungen GmbH Lindenallee 78 50968 Köln",
+		"eingang": "22.06.2017",
+		"anzeige": "23.06.2017"
+	},
+	{
+		"partei": "CDU",
+		"spende": 70000.00,
+		"spender": "Prof. Dr. Hans-Joachim Langmann Merckstraße 40 64342 Seeheim-Jugenheim",
+		"eingang": "20.06.2017",
+		"anzeige": "21.06.2017"
+	},
+	{
+		"partei": "CDU",
+		"spende": 300000.00,
+		"spender": "Prof. Dr. Hans-Joachim Langmann Merckstraße 40 64342 Seeheim-Jugenheim",
+		"eingang": "14.06.2017",
+		"anzeige": "14.06.2017"
+	},
+	{
+		"partei": "SSW",
+		"spende": 120563.53,
+		"spender": "Sydslesvigudvalget/Kulturministeriet, Kulturstyrelsen Übersetzung: Südschleswig-Ausschuss/Kulturministerium, Kulturbehörde H.C. Andersens Boulevard 2 1553 København V.",
+		"eingang": "06.06.2017",
+		"anzeige": "08.06.2017"
+	},
+	{
+		"partei": "CDU",
+		"spende": 100000.00,
+		"spender": "VHB Grundstücksverwaltung und Beteiligung GmbH & Co. KG Kurfürstendamm 63 10707 Berlin",
+		"eingang": "01.06.2017",
+		"anzeige": "06.06.2017"
 	}
 ]
